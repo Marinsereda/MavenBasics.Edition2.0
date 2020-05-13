@@ -2,4 +2,4 @@
 MavenBasics.Edition2.0.iml
 pom.xml
 target/
-
+.gitignore
