@@ -26,6 +26,7 @@ public class Test_0 {
         } catch (NoSuchElementException e) {
             System.out.println("Something went wrong.");
         }
+        browser.close();
 
 
 
